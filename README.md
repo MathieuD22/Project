@@ -25,12 +25,11 @@ Realised (Update and we have to say how often the contributors updates the proje
 
 Used by (people who take 
 
----
-### 💻 Languages
+
+## 💻 Languages
 You can see here all the languages used in the repository :
 
 1.  JavaScript (71.8%)
 2.  CSS (9.6%)
 3.  SCSS (9.5%)
 4.  Less (9.1%)
----
