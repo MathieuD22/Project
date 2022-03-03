@@ -25,6 +25,7 @@ In this repositorie, we deal with update of Fontawesome and more precisely the i
 | Open Pull Requests | 26 | Pull requests (let you tell others about changes you've pushed to a branch in a repository on GitHub) |
 
 This project contains 26 open Pull Request and 610 closed Pull Request.
+
 Licence (How the project is configured)
 
 ## 💻 Languages
