@@ -22,9 +22,9 @@ In this repositorie, we deal with update of Fontawesome and more precisely the i
 | Stars | 68800 | Stars (people who like the project) |
 | Used by | 217000 | Used by (people who take the project) |
 | Released | 43 | Realised (Update and we have to say how often the contributors updates the project) |
-| Pull Requests | 26 | 
+| Open Pull Requests | 26 | Pull requests (let you tell others about changes you've pushed to a branch in a repository on GitHub) |
 
-
+This project contains 26 open Pull Request and 610 closed Pull Request.
 Licence (How the project is configured)
 
 ## 💻 Languages
