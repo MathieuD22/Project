@@ -26,6 +26,12 @@ In this repositorie, we deal with update of Fontawesome and more precisely the i
 
 This project contains 26 open Pull Request and 610 closed Pull Request.
 
+And let's talk about issue management of this repostory. 
+Issues let you track your work on GitHub, where development happens.
+In this repository, we can see 5725 open issues and 12285 closed issues.
+
+About Released part of the Github project, the contributors updates his project every 2 months. 
+
 Licence (How the project is configured)
 
 ## 💻 Languages
